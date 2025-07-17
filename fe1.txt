@@ -1,0 +1,53 @@
+Last login: Thu Jul 17 09:33:33 on ttys000
+dhrutiavutu@Dhrutis-MacBook-Pro ~ % git --version
+git version 2.39.5 (Apple Git-154)
+dhrutiavutu@Dhrutis-MacBook-Pro ~ % git config --global user.name "dhruti239"
+dhrutiavutu@Dhrutis-MacBook-Pro ~ % git config --global user.email "2400030239@kluniversity.in"
+dhrutiavutu@Dhrutis-MacBook-Pro ~ % git config --list
+credential.helper=osxkeychain
+init.defaultbranch=main
+user.name=dhruti239
+user.email=2400030239@kluniversity.in
+dhrutiavutu@Dhrutis-MacBook-Pro ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
