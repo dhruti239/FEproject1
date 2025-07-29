@@ -1,0 +1,14 @@
+.main1{
+     font-size: 20px;
+     background-color: coral;
+     font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.main2{
+    border: 2px solid rebeccapurple;
+}
+.link1{
+    text-align: center;
+}
+#text1{
+    text-decoration:underline;
+}
